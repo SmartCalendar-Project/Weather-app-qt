@@ -17,3 +17,4 @@ Language used
 Tool
     • Qt Creator
     
+![Screenshot from 2021-03-18 18-28-07](https://user-images.githubusercontent.com/57550046/111708183-c5441500-881b-11eb-8580-dfa3da613a13.png)
